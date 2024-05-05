@@ -20,8 +20,8 @@ Keycloak SSO in Next.js 14 with NextAuth.js
 ### Develop locally
 
 ```bash
-git clone https://github.com/paulphys/nextauth-keycloak
-cd nextauth-keycloak
+git clone https://github.com/paulphys/next-keycloak-sso
+cd next-keycloak-sso
 pnpm
 pnpm dev
 ```
