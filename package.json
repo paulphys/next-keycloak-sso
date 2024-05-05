@@ -1,5 +1,5 @@
 {
-  "name": "nextauth-keycloak",
+  "name": "next-keycloak-sso",
   "version": "0.1.0",
   "private": true,
   "scripts": {
