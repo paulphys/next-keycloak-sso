@@ -1,5 +1,5 @@
-# nextauth-keycloak
-Keycloak SSO authentication in Next14 with NextAuth
+# next-keycloak-sso
+Keycloak SSO in Next.js 14 with NextAuth.js
 
 ## Setup
 
